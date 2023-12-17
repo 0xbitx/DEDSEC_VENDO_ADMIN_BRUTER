@@ -12,7 +12,7 @@ DEDSEC_VENDO_ADMIN_BRUTER is a Linux-based brute-force tool for LPB wifi vendo. 
 ### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
     * git clone https://github.com/0xbitx/DEDSEC_VENDO_ADMIN_BRUTER.git
     * cd DEDSEC_VENDO_ADMIN_BRUTER
-    * pip3 install pystyle
+    * pip3 install pystyle pytesseract
     * chmod +x dedsec_admin_bruter
     * ./dedsec_admin_bruter
 
