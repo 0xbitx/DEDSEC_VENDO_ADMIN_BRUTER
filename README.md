@@ -9,7 +9,7 @@
 ### DESCRIPTION
 DEDSEC_VENDO_ADMIN_BRUTER is a Linux-based brute-force tool for LPB wifi vendo. This tool handles cookie changes and adeptly bypasses input rate limits and captcha imposed by vending machines. Elevate your vendo-cracking endeavors with Dedsec tool, a comprehensive solution designed for efficiency and effectiveness.
 
-### INSTALLATION [ KALI - UBUNTU - TERMUX APP  ]
+### INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_VENDO_ADMIN_BRUTER.git
     * cd DEDSEC_VENDO_ADMIN_BRUTER
     * pip3 install pystyle pytesseract
@@ -20,7 +20,6 @@ DEDSEC_VENDO_ADMIN_BRUTER is a Linux-based brute-force tool for LPB wifi vendo. 
 * Kali Linux 
 * Parrot OS 
 * Ubuntu
-* Termux App
 
 ## Support
 
